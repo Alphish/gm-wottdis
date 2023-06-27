@@ -1,0 +1,5 @@
+# Ignore GM resource order
+*.resource_order
+
+# Ignore Reaper backups
+*.rpp-bak
